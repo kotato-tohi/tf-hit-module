@@ -1,0 +1,9 @@
+variable "profile" {}
+variable "region" {}
+variable "tag_name" {}
+variable "tag_cost" {}
+variable "vpc_cidr_block" {}
+variable "az" {}
+variable "az_list" {}
+variable "pub_sbn_cnt" {}
+variable "pvt_sbn_cnt" {}

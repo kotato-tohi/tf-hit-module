@@ -1,0 +1,9 @@
+profile        = "tf-user"
+region         = "ap-northeast-1"
+vpc_cidr_block = "10.0.0.0/16"
+az             = "ap-northeast-1a"
+az_list        = ["ap-northeast-1a", "ap-northeast-1c", "ap-northeast-1d"]
+tag_name       = "tf-sample-module"
+tag_cost       = "mod-test"
+pub_sbn_cnt    = 1
+pvt_sbn_cnt    = 1
